@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.idea/
+data/
+chroma_db/
+checkPoint/
+logs/
+md5.text
+*.jsonl
+.DS_Store
+*.spec
+build/
+dist/
