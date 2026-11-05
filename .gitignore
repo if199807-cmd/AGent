@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.idea/
+.venv/
+chroma_db/
+checkPoint/
+logs/
+build/
+dist/
+data/
+md5.text
+github-check.txt
+github-trace.txt
